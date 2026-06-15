@@ -1,1 +1,1 @@
-# Stock-Market-Prediction-using-ARIMA-and-LSTM
+# Stock Market Prediction with Crisis-Aware Modelling
